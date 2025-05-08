@@ -1,7 +1,6 @@
 # importando as bibliotecas
 from deep_translator import GoogleTranslator
 from requests import get
-from random import choice
 import streamlit as st
 
 # função para limpar a datas
